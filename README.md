@@ -1,2 +1,10 @@
-# go_by_example
-In this repository I have compiled some go_lang example for better understanding of go lang and for more you can prefer to the `gobyexample.com` .
+## Topics compiled like :
+1. api
+2. database 
+3. testing 
+4. handling concurrent request and responses 
+5. web backend 
+6. grpc 
+7. protocol buffers 
+8. hosting a golang application
+9. dockerize a golang application
